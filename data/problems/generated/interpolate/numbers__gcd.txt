@@ -1,0 +1,20 @@
+What is the highest common factor of 196 and 3122?
+14
+What is the greatest common divisor of 5158786 and 85?
+17
+Calculate the highest common factor of 953694 and 171.
+9
+What is the highest common factor of 1046146 and 289?
+17
+What is the greatest common factor of 34700 and 29650?
+50
+What is the greatest common divisor of 1668507 and 20565?
+1371
+Calculate the greatest common divisor of 1422 and 31126.
+158
+Calculate the highest common divisor of 1751296 and 4352.
+256
+What is the highest common factor of 92345 and 1010735?
+1265
+What is the highest common divisor of 6455076 and 12?
+12

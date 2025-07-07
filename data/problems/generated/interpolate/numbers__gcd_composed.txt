@@ -1,0 +1,20 @@
+Let y(c) = 11*c**2 + 63*c + 186. Let k be y(-3). Calculate the greatest common divisor of k and 504.
+24
+Suppose -18*g - 2*z = -17*g - 3141, 0 = 2*z - 6. What is the greatest common factor of g and 30?
+15
+Let h(t) = 4*t**2 - 19*t - 17. Let k be h(7). Let m be (-1)/(-8) - (-5316)/(-32). Let v = 235 + m. Calculate the greatest common factor of k and v.
+23
+Let w = -77 + 54. Let q(g) = -g**3 - 25*g**2 - 45*g + 25. Let o be q(w). Calculate the highest common factor of 26 and o.
+2
+Let d be ((-492)/(-369))/((-8)/(-15006)). Calculate the highest common divisor of 41 and d.
+41
+Suppose 5*p + 2*c = 236, -4*p - p = 4*c - 242. Suppose -6*j - 5*j - 957 = 0. Let d = 156 + j. What is the greatest common factor of p and d?
+23
+Let n(s) = 55*s**3 + 8*s**2 + 2*s - 7. Let c be n(2). Calculate the greatest common factor of c and 268.
+67
+Let v be (-46)/(-11) + 8/(-44). Suppose 3*r + 18 = v*r. Suppose 4*d - 7*d = -4*n - 6, -4*d - 5*n = -39. What is the highest common factor of d and r?
+6
+Let j(l) = 4 - 10*l**3 + 5*l**3 + 0*l**3 + 7*l**3 + 2*l. Let b be j(3). Suppose -5*x - b = -9*x. What is the highest common divisor of 4 and x?
+4
+Let a(o) = -o - 58. Let d be a(-31). Let r(j) = -5*j - 117. Let b be r(d). Calculate the highest common divisor of 306 and b.
+18

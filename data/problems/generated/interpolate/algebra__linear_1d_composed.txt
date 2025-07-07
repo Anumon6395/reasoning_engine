@@ -1,0 +1,20 @@
+Suppose 29 = 142*n - 255. Suppose -2*w = -w - 7. Solve w*r = n*r - 5 for r.
+-1
+Let n(v) = -v + 1. Let w be 3/15 + -2 + 18/10. Let o be 0*(9/18 - (0 + w)). Let x be n(o). Solve -x = 2*k + 3 for k.
+-2
+Let z(j) = j + 27. Let h be z(-18). Suppose o + 2*m - h = 0, -4*o = -m - 0*m. Let b = 7 + o. Solve -2*v + 0*v = b for v.
+-4
+Let f be (1 - 0)/((-1)/(-9)). Let m(n) = -2*n**2 + 13*n + 9. Let w be m(8). Let v = w - -17. Solve f = z + v*z for z.
+3
+Suppose s = -1, -2*s + 10 = 5*p - 3. Solve -p*i - 15 + 15 = 0 for i.
+0
+Let x(m) = -9*m**2 + 363*m - 69. Let l be x(40). Solve 12 - l = 13*c for c.
+-3
+Let o be 93/(-62) + 14/4. Let v be (-17)/(-3) - o/18*-3. Solve v*q = 11*q + 25 for q.
+-5
+Let x be (-12)/18 + (-4)/3 + 2. Suppose x = -9*j + 5*j + 8. Solve 12 = j*u + u for u.
+4
+Let z(q) = q**3 - 6*q**2 + 19*q - 64. Let g be z(7). Let n = g - 116. Solve -n = 3*b + 1 for b.
+-1
+Suppose 90*z - 5*l = 94*z - 32, -12 = -3*l. Solve 98*q = 101*q - z for q.
+1

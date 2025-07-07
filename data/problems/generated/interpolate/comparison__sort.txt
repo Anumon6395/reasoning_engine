@@ -1,0 +1,20 @@
+Put 1218, 9, 4, -2, 3 in descending order.
+1218, 9, 4, 3, -2
+Sort 5, 642, -4, 0, -3, 3, 2 in decreasing order.
+642, 5, 3, 2, 0, -3, -4
+Sort -2/7, 3, 0.257361 in increasing order.
+-2/7, 0.257361, 3
+Sort -2, 0, -5, 44, 2, 19.
+-5, -2, 0, 2, 19, 44
+Put -72481, -2, 40 in descending order.
+40, -2, -72481
+Sort -5, 5, 27, -11938, 3 in ascending order.
+-11938, -5, 3, 5, 27
+Sort -15.73, 3/4, -0.063, -28 in descending order.
+3/4, -0.063, -15.73, -28
+Put -152, -43, 1, -5, -8, 4 in increasing order.
+-152, -43, -8, -5, 1, 4
+Sort -2, 1/4, -0.117, 46, 120 in ascending order.
+-2, -0.117, 1/4, 46, 120
+Sort -1/7, -2/9, 6, 2/5, 57 in ascending order.
+-2/9, -1/7, 2/5, 6, 57

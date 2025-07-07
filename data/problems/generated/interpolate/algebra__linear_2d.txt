@@ -1,0 +1,20 @@
+Solve 8*y + r = 0, -373*y = -370*y - 2*r for y.
+0
+Solve 2*i + 4*h = 28 - 21 - 11, -5*h = -4*i + 5 for i.
+0
+Solve p - 2*z = 49, -295*p + 596*p - 9*z = 299*p + 208 for p.
+5
+Solve 5*y - 300*l + 2 = -302*l, -5*y + 5*l + 75 = 0 for y.
+4
+Solve -22*p + v + 56 = 0, -3*p + 135*v - 54 = 140*v for p.
+2
+Solve -3*h + 105 = 12*h, 19*k + 4*h - h - 20 = 18*k for k.
+-1
+Solve 86*u = 82*u + 5*o - 49, 4*o = -2*u - 73 + 55 for u.
+-11
+Solve -m + 3 + 0 = y, -1350*y = -1353*y + 2*m + 24 for y.
+6
+Solve 6*j - 25*a - 94 = -26*a, -a + 4 = 0 for j.
+15
+Solve b = 178642 - 178639, -2*g - 2*b + 2 = 0 for g.
+-2

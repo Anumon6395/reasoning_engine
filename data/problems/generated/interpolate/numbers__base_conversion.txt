@@ -1,0 +1,20 @@
+-3310341 (base 6) to base 9
+-270857
+What is -4b792 (base 13) in base 7?
+-1121220
+Convert 62228 (base 12) to base 14.
+34a08
+What is 176012 (base 9) in base 14?
+2bbd7
+What is -10104233 (base 5) in base 15?
+-19398
+Convert 33121300 (base 4) to base 7.
+351634
+-22355 (base 14) to base 8
+-242047
+-625355 (base 7) to base 13
+-39c4a
+Convert -634453 (base 7) to base 15.
+-22751
+Convert -7a3a0 (base 11) to base 9.
+-186438

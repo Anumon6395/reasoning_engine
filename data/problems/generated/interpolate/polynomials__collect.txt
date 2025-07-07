@@ -1,0 +1,20 @@
+Collect the terms in -i - 3*i + 22*i - 140.
+18*i - 140
+Collect the terms in -3318*t**2 + 151*t**3 + 3312*t**2 - 67*t**3 - 83*t**3.
+t**3 - 6*t**2
+Collect the terms in -468*d**3 + 1 + 1 - 574*d**3 - 2.
+-1042*d**3
+Collect the terms in 1866030*g**3 - 933025*g**3 - 933006*g**3 + g**2 - g**2.
+-g**3
+Collect the terms in 3010*a**3 + 7046*a**3 - 2166*a**3.
+7890*a**3
+Collect the terms in -479*p**3 - 934*p**3 + 911*p**3.
+-502*p**3
+Collect the terms in 1335*g - 1335*g + 83892*g**2.
+83892*g**2
+Collect the terms in -957*c - 984*c - 702*c + 3069*c.
+426*c
+Collect the terms in 1739*z - 2404*z + 664*z.
+-z
+Collect the terms in -79674*g**3 + 159347*g**3 - 79678*g**3.
+-5*g**3

@@ -1,0 +1,20 @@
+Suppose -10*r = -8*r - 8. Suppose x + 10 = -0*x - 2*k, 5*x = -r*k - 20. Solve -12 - 6 = -4*w + s, -4*w - 2*s + 12 = x for w.
+4
+Let n be (-604)/(-130) - 46/(-299) - 1/(-5). Solve 0*p + n*f = -4*p, -2*f = 8 for p.
+5
+Suppose 14*r = 29*r + 480. Let o be ((-9)/6)/((-2)/(-44)). Let l = r - o. Solve l = 2*a + 3, -11 = -5*q - 4*a for q.
+3
+Suppose 23*h + 10*h = 93 + 6. Solve h*u + 47*a - 43*a = -5, 5*a = 2*u - 35 for u.
+5
+Suppose -4*q + 5*o + 39 = 16, 4*o + 8 = -2*q. Suppose -q*s + 3*s = 0. Solve s = 4*k - 16, -31 = 5*a - 6*k + 2*k for a.
+-3
+Suppose -4*o + 0*a + 20 = 4*a, -3*o + 4*a + 15 = 0. Solve 4*j = o*l - 7, 4*j + 7 - 3 = 4*l for l.
+3
+Let c(r) = r**3 - 6*r**2 - 20*r + 32. Let y be c(8). Solve l = -y*l - 5*x - 3, 4*l + 3*x = -12 for l.
+-3
+Let v(d) = -8*d**2 + 9 - 9 + 5*d. Let p be v(2). Let b be p/(-8) - (-3)/12. Solve 1 = -5*n - y + 17, -b*n = -5*y - 4 for n.
+3
+Let y = 57 - 55. Suppose 9*m - 32 = -7*m. Solve r + y*r = -2*x + 10, -r + m*x - 2 = 0 for r.
+2
+Let r(j) = 2*j**2 + j - 4. Let c be r(-4). Suppose -19*l + 6 = -17*l + x, 3 = l + 3*x. Solve 3*m - 21 = m - 5*b, -5*b + c = l*m for m.
+3

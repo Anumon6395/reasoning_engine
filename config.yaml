@@ -1,0 +1,7 @@
+model:
+  name: GritLM/GritLM-7B
+  trust_remote_code: true
+storage:
+  embeddings_dir: data/embeddings/
+  problems_dir: data/problems/
+  index_path: db/index_hnsw.faiss 

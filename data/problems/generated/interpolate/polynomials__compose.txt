@@ -1,0 +1,20 @@
+Let n(y) = -y**2. Let c(d) = -8080883*d**2. Give n(c(q)).
+-65300670059689*q**4
+Let w(k) = -11*k. Let r(c) = 32*c. Let s(g) = -2*r(g) - 7*w(g). Let a(i) be the second derivative of -1/12*i**4 + 0 + 0*i**2 + 0*i**3 - 93*i. What is a(s(n))?
+-169*n**2
+Let o(q) be the third derivative of -q**4/12 - 19*q**2. Let t(m) = -4*m + 13*m - 27*m. Calculate t(o(i)).
+36*i
+Let i = 2 + 4. Let x(m) = -i*m + 8*m + 2*m + 6*m. Let y(s) = -4 - 42*s + 4 + 43*s. What is x(y(g))?
+10*g
+Let j(w) = 10*w + 3. Let t(u) = 3*u + 1. Let x(q) = -2*j(q) + 6*t(q). Let m(s) = 1114*s**2. What is x(m(c))?
+-2228*c**2
+Let k(l) = 2*l. Let s(p) be the second derivative of -157*p**3 - p**2 + 616*p. Give s(k(a)).
+-1884*a - 2
+Let a(x) = -890*x. Let z(l) = -2*l**2 - 321*l. What is z(a(u))?
+-1584200*u**2 + 285690*u
+Let f(h) = 2*h**2. Let m(v) = 691*v**2 - v - 4282. What is m(f(u))?
+2764*u**4 - 2*u**2 - 4282
+Let r(h) be the third derivative of 0*h**4 + 1/6*h**5 + 0*h + 0 + 0*h**3 - 31*h**2. Let a(v) = -11*v. Calculate a(r(f)).
+-110*f**2
+Let p(y) = 2750*y**2 - 110*y. Let b(t) = 102*t**2 - 4*t. Let s(g) = -55*b(g) + 2*p(g). Let h(c) = 20*c**2. Calculate h(s(j)).
+242000*j**4

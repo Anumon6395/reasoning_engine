@@ -1,0 +1,20 @@
+Let f(n) = 3776*n - 26429. Calculate f(7).
+3
+Let h(x) = -x**2 - 1861*x + 24191. Give h(13).
+-171
+Let r(n) = n**3 - 4047*n**2 - 89519*n - 45. Give r(-22).
+-23
+Let n(w) = -388*w - 32518. Give n(-84).
+74
+Let p(x) = -4*x**2 + 1111*x - 6521. Give p(6).
+1
+Let u(g) = 2*g**3 - 21*g**2 - 71*g + 10. What is u(13)?
+-68
+Let y(b) = -202*b + 2403. Give y(12).
+-21
+Let z(p) = 2786*p - 94727. Calculate z(34).
+-3
+Let g(w) = w**3 - 27*w**2 - 133*w + 2205. Give g(29).
+30
+Let o(y) = 4111*y - 12337. Determine o(3).
+-4

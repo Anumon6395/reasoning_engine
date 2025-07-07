@@ -1,0 +1,20 @@
+In base 7, what is -40 - 1325016?
+-1325056
+In base 6, what is 41533 - 22041?
+15452
+In base 7, what is 31324 + 365?
+32022
+In base 16, what is -5280f + 1e?
+-527f1
+In base 5, what is -3001 + -1342122?
+-1400123
+In base 5, what is -3300344 - 332?
+-3301231
+In base 5, what is 22214234221 - 1?
+22214234220
+In base 7, what is 25 - 1126256?
+-1126231
+In base 3, what is 10000 + -102212102120?
+-102212022120
+In base 15, what is 2b + 15359?
+15385

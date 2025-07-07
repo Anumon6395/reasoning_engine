@@ -1,0 +1,20 @@
+What is prob of picking 1 j and 1 u when two letters picked without replacement from utyqauajjyy?
+4/55
+Calculate prob of picking 2 r and 1 q when three letters picked without replacement from qrqqqqqrqqqrrrb.
+18/91
+Calculate prob of picking 4 i when four letters picked without replacement from yiyiiiiyyyyiyiiiii.
+11/102
+Two letters picked without replacement from kmoodkdooddmt. What is prob of picking 1 o and 1 k?
+4/39
+Calculate prob of picking 2 e and 1 j when three letters picked without replacement from {t: 3, j: 3, c: 3, e: 4, l: 1}.
+9/182
+Calculate prob of picking 1 l and 1 d when two letters picked without replacement from {x: 1, d: 1, l: 1, b: 1}.
+1/6
+Two letters picked without replacement from kkkdkdhkhhhkkkhh. Give prob of picking 2 k.
+7/30
+Four letters picked without replacement from {a: 1, x: 5, j: 1, z: 2, p: 1, r: 1}. What is prob of picking 1 r, 1 a, 1 z and 1 j?
+1/165
+Four letters picked without replacement from {k: 1, g: 8, a: 1, n: 5}. Give prob of picking 2 n, 1 g and 1 k.
+16/273
+What is prob of picking 1 s and 1 l when two letters picked without replacement from srrulolnuoo?
+2/55

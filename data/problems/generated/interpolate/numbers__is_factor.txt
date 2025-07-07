@@ -1,0 +1,20 @@
+Does 4015 divide 34638867?
+False
+Does 234 divide 32827060?
+False
+Is 61854240 a multiple of 140?
+True
+Is 20 a factor of 65988960?
+True
+Does 433 divide 36878177?
+True
+Is 21115742 a multiple of 242?
+False
+Is 1439208 a multiple of 12?
+True
+Does 1545 divide 10413300?
+True
+Is 212 a factor of 62333804?
+False
+Does 120 divide 8887200?
+True

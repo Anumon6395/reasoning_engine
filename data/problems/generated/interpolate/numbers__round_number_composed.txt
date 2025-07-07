@@ -1,0 +1,20 @@
+Let z be 5/5*7878 - (9 - 1). What is z rounded to the nearest 1000?
+8000
+Suppose -3*y + 0 = 15, 3*s - 4*y = -2168980. Round s to the nearest one million.
+-1000000
+Let z = 7568 + -7568.025336. Round z to four dps.
+-0.0253
+Let p(y) = 208*y**3 - 3*y**2 + 2*y - 1. Let c be p(2). Let w = -184 - -1109. Let b = c - w. What is b rounded to the nearest 100?
+700
+Suppose 11*t = 12*t - 2*c - 10329010, -t + 10329005 = -c. What is t rounded to the nearest one million?
+10000000
+Let a be -411147 - (-9 + 10/(-5)). Let m(k) = 13459*k**2 - 2*k - 1. Let t be m(-3). Let n = a + t. What is n rounded to the nearest 100000?
+-300000
+Suppose -27 = -5*c - 2. Let a(y) = -3*y + 15. Let s be a(c). Let j be s/1 + -79 + 2/1. What is j rounded to the nearest 10?
+-80
+Suppose -d + 2937 = -4*c - 3234, -3*d = 4*c - 18545. Let p be 120/(d/(-21700) - 14/(-49)). Round p to the nearest 10000.
+120000
+Let s(b) = -62*b**2 + 60. Let q be s(25). Round q to the nearest one thousand.
+-39000
+Let f = -8.219 + -4.815. Round f to one decimal place.
+-13

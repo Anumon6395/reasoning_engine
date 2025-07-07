@@ -1,0 +1,20 @@
+Simplify (((k*k**(-1)/k)/k)**(5/3)*k**(-6/7)*k**(-2/5))**(2/105) assuming k is positive.
+k**(-964/11025)
+Simplify (d**(7/10)*d**(17/6))/(d**(2/5)/(d*(d**(-5)/d)/d*d**0)) assuming d is positive.
+d**(-43/15)
+Simplify ((u**(4/3)/(u/(u/((u*u*u**(-3/5)*u)/u*u*u))))/(u**(1/4))**(-32))**(-43) assuming u is positive.
+u**(-3827/15)
+Simplify (o**(-6/5)*o**7*o**5/(o**(1/4)/o*o))**(25/2) assuming o is positive.
+o**(1055/8)
+Simplify (((((n**(-4)*n)/n)/(n/n**2))**22)**(-43))**7 assuming n is positive.
+n**19866
+Simplify (g**(-3)*g/(g*g**4))**15/(g**18)**(1/7) assuming g is positive.
+g**(-753/7)
+Simplify ((((s*s/s**3)/s*s)/s*s*s*s*s**(-4/3))/s**(-16))/(s**(-46))**(-22/7) assuming s is positive.
+s**(-2707/21)
+Simplify (v**(4/3)*v**(2/15)*v**(-20))/(v**(-26)*v**(-1/24)) assuming v is positive.
+v**(901/120)
+Simplify ((w**18*w**(-17))**(-13/7))**(-3/11) assuming w is positive.
+w**(39/77)
+Simplify (((j/j**(-4))/(j**(1/4)/j)*j**(-20))**(13/7))**(5/8) assuming j is positive.
+j**(-3705/224)

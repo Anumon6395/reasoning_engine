@@ -1,0 +1,20 @@
+What is the third derivative of -13535052*a**6 + 49179*a**2 - 66*a wrt a?
+-1624206240*a**3
+What is the second derivative of -4525*f**4*s + 47*f**3*s - f**2*s + 20*f*s + 53938*s wrt f?
+-54300*f**2*s + 282*f*s - 2*s
+Differentiate 11*d**2*y + 13*d**2 - 130*d*y - 5*d + 14273362*y wrt d.
+22*d*y + 26*d - 130*y - 5
+Find the second derivative of 10648885*h**2 + 10691410*h.
+21297770
+What is the second derivative of -6438919*g**3 - 49*g + 5737?
+-38633514*g
+What is the second derivative of -34*l**4 - 117588*l**2 + 5*l - 194914 wrt l?
+-408*l**2 - 235176
+Differentiate 4924*i**2*z**2 - i**2 + 89*i*z**4 + 5485*i - 26 wrt z.
+9848*i**2*z + 356*i*z**3
+Find the second derivative of -9260457*i**2 + 134*i - 13549.
+-18520914
+Find the third derivative of 7755293*v**5 + v**4 - 3952297*v**2 - 3.
+465317580*v**2 + 24*v
+Find the third derivative of -5*a*j**4 + 118*a*j**3 + 3*a*j**2 + 4*j**4 - 2*j**3 - 113362*j**2 + 6*j wrt j.
+-120*a*j + 708*a + 96*j - 12

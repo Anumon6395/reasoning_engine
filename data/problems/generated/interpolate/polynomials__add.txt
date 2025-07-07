@@ -1,0 +1,20 @@
+Let d(c) = 2014*c - 1103*c - 912*c. Let v(b) = -2*b - 3. Let u(q) = q + 2. Let o(p) = -3*u(p) - 2*v(p). Determine -3*d(t) - 7*o(t).
+-4*t
+Let u(v) = 12*v - 121. Let b(g) = -14*g + 122. Give -3*b(c) - 4*u(c).
+-6*c + 118
+Let x(s) = s + 4. Let f(m) = m + 2 + 0 + 0. Suppose 4*h = 5*p + 4 - 20, 9 = 2*p + h. What is p*x(a) - 9*f(a)?
+-5*a - 2
+Let h(y) = -21*y - 7. Let f = 643 - 629. Let x(o) = -o - 1. Calculate f*x(v) - 2*h(v).
+28*v
+Let k(m) = 9*m**2 - 6*m + 6. Let t = 39 + -26. Let w(n) = -19*n**2 + 13*n - 13. Let i be (16 - 26 - -21) + -5. Calculate i*w(q) + t*k(q).
+3*q**2
+Let b(h) = 197*h**3 - 20*h**2 - 2*h - 6. Let g(j) = -591*j**3 + 57*j**2 + 6*j + 17. What is 17*b(d) + 6*g(d)?
+-197*d**3 + 2*d**2 + 2*d
+Let d(n) = -5*n + 5. Let x(z) be the first derivative of 4*z - 5/2*z**2 + 43. Determine -3*d(t) + 4*x(t).
+-5*t + 1
+Let d(n) = 12*n**3 - 16*n**2 + 570*n. Let t(j) = -4*j**3 + 5*j**2 - 189*j. What is -5*d(y) - 16*t(y)?
+4*y**3 + 174*y
+Let s(d) = -d**3 - 46*d**2 - 45*d + 3. Let j be s(-45). Let v(i) = -3*i + 12. Let y(z) = -z + 4. Calculate j*v(m) - 8*y(m).
+-m + 4
+Let n(q) = 36*q - 393. Let r be n(11). Let k(f) = 14*f**2 - 16*f + 26. Let l(y) = -3*y**2 + 3*y - 5. Give r*k(s) + 16*l(s).
+-6*s**2 - 2

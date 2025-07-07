@@ -1,0 +1,20 @@
+What is the fourth smallest value in 1, 5, 1/5, -71/4, -0.1, 41, 0.4, -20, -0.39?
+-0.1
+Which is the sixth smallest value?  (a) 2/3  (b) -2/13  (c) 1/9  (d) -43  (e) -3/5  (f) -8  (g) -2  (h) 28/9  (i) -82
+b
+What is the ninth biggest value in 2/7, -1/11, 0.07, 17, -2/25, 3, -0.002, 293/5, 1/9?
+-1/11
+What is the biggest value in -50/189, 4, 1/9, 3, -0.1, -7/10, 1/2, 5, -0.3?
+5
+Which is the third biggest value?  (a) -0.5  (b) 0  (c) -37  (d) -0.1  (e) 0.02  (f) 12  (g) -1  (h) 0.2  (i) 4  (j) -21
+h
+Which is the tenth smallest value?  (a) 0.2  (b) 1  (c) 2/35  (d) 50/9  (e) 2/7  (f) -3/5  (g) -3  (h) -0.5  (i) 5  (j) -20
+d
+Which is the ninth smallest value?  (a) -9  (b) 0.5  (c) -1/6  (d) -193  (e) -3  (f) -0.6  (g) -1  (h) 2/9  (i) 2/15  (j) 1
+b
+What is the fifth biggest value in 0.4, 540, -5, -1/4, -0.5, -27, -0.1, 1439, 0, -2/5?
+-0.1
+What is the seventh biggest value in 211, 0.2, -0.2, 5/3, -4, -3/4, -5, 11.6, 3?
+-3/4
+Which is the fourth smallest value?  (a) -0.0234  (b) -2/15  (c) -3  (d) -39  (e) 3  (f) -1  (g) 301  (h) 2/3  (i) 0
+b

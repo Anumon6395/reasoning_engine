@@ -1,0 +1,20 @@
+Let s = 2994 + -3001. Put -4, s, -1, 4, -3 in increasing order.
+s, -4, -3, -1, 4
+Suppose -4 = -97*f + 95*f. Suppose -c = -f*c - 2, 4*c + 5 = -z. Sort 5, -2, z, 4.
+-2, z, 4, 5
+Suppose 0 = -3*u - 13 - 20. Let t be 87/(-15) - 8/(-10). Sort t, u, -2 in descending order.
+-2, t, u
+Suppose 3*x + 15 = 0, -z - 168*x + 172*x + 18 = 0. Sort z, 1, 0, 212 in descending order.
+212, 1, 0, z
+Let a = -3957 + 3953. Put 2/69, -0.2, 3/7, a in ascending order.
+a, -0.2, 2/69, 3/7
+Let r = -4384 + 4384.1. Put 0.7, r, -2/15, -14/5 in decreasing order.
+0.7, r, -2/15, -14/5
+Let w = 4/15 - -1/15. Let t = -8.7044 + -0.2956. Put w, t, 5 in decreasing order.
+5, w, t
+Let t(y) = -288*y - 1432. Let l be t(-5). Sort l, 0, -1 in decreasing order.
+l, 0, -1
+Let o = 5 - 3. Suppose -2*d + d + 4 = 0. Suppose d*y + 6 = 2. Sort 4, 3, y, o in descending order.
+4, 3, o, y
+Suppose 18*i = -5*s + 14*i - 14, -5*s - 9 = -i. Put s, -4, 345 in decreasing order.
+345, s, -4

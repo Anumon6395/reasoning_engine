@@ -1,0 +1,20 @@
+Round 0.0054101702 to five dps.
+0.00541
+What is 4176704.6 rounded to the nearest 100000?
+4200000
+Round -0.00160423253 to four dps.
+-0.0016
+Round 0.0188687849 to 6 dps.
+0.018869
+What is -0.0052555387 rounded to 3 decimal places?
+-0.005
+What is -0.000255075587 rounded to 5 decimal places?
+-0.00026
+What is 45587183 rounded to the nearest 10000?
+45590000
+Round -32550.63 to the nearest one thousand.
+-33000
+What is -33162.1076 rounded to the nearest 100?
+-33200
+Round 41.94072 to the nearest ten.
+40

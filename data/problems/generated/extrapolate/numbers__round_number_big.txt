@@ -1,0 +1,20 @@
+Round -2094795.01402 to the nearest one hundred thousand.
+-2100000
+What is -45734.9035051 rounded to the nearest ten thousand?
+-50000
+Round -81523767808.9 to the nearest 100000.
+-81523800000
+What is -1.748081355968 rounded to one decimal place?
+-1.7
+Round 346998814478 to the nearest 1000000.
+346999000000
+Round 350416.6844465 to the nearest 100.
+350400
+Round -46041.70110943 to the nearest 1000.
+-46000
+Round -7266756.87411 to the nearest 1000000.
+-7000000
+What is -87712541.604 rounded to the nearest one hundred thousand?
+-87700000
+What is 279.8955570397 rounded to 3 decimal places?
+279.896

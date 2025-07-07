@@ -1,0 +1,20 @@
+Solve -2284*y + 25354 = -473*y for y.
+14
+Solve 8266*f = 8275*f - 207 for f.
+23
+Solve 33*c - 31*c + c + 112*c = -1380 for c.
+-12
+Solve 111*p = 801*p - 4140 for p.
+6
+Solve -221 - 17 = 17*r - 34 for r.
+-12
+Solve 9936 - 4272 = 177*r for r.
+32
+Solve -208*t + 208 = 187 - 187 for t.
+1
+Solve -523*h = -2856 + 14723 + 8530 for h.
+-39
+Solve 68*l = 20796 - 23312 for l.
+-37
+Solve -1013 = -134*g - 52 + 1049 for g.
+15

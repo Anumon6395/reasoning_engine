@@ -1,0 +1,20 @@
+Suppose 2656 = 3*b + 5*b. Suppose 3*h = y + 162, 3*y - y + b = 4*h. Let f = -82 - y. List the prime factors of f.
+2, 23
+Let g = 10548 - 5249. What are the prime factors of g?
+7, 757
+Let l = 14889 - 8855. What are the prime factors of l?
+2, 7, 431
+Suppose 221*w - 227*w = -672. What are the prime factors of (576/w)/((-1)/(-308)*6)?
+2, 3, 11
+Suppose h = -166*h + 1179521. What are the prime factors of h?
+7, 1009
+Let z(w) = -w**2 - 194*w + 143. What are the prime factors of z(-73)?
+2, 3, 11, 17
+Suppose -17*d - 11076 = -3*t - 20*d, 2*t - 7360 = 4*d. What are the prime factors of t?
+2, 461
+Let c(g) = -10*g**2 - g + 452. Let w = -117 - -117. List the prime factors of c(w).
+2, 113
+Let q(c) = -c**2 - 19*c + 19. Let d be q(-23). Suppose 4*o + 3*r + 671 = 0, r + r = -o - 169. Let g = d - o. What are the prime factors of g?
+2, 47
+List the prime factors of -4090*(448/40)/(-7).
+2, 409

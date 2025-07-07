@@ -1,0 +1,20 @@
+Let l be 3630/14 - 34/119. Suppose -5*a = -4*w + l, w + 4*a = 98 - 7. Suppose 4*g - 277 = w. What is the units digit of g?
+7
+Let i(t) = 218*t + 22. What is the thousands digit of i(8)?
+1
+Let y(z) = -z**2 + 8*z. Let t be y(7). Let q(n) = n + 1. Let b(d) = -17*d + 4. Let x(c) = -b(c) - 6*q(c). What is the units digit of x(t)?
+7
+Suppose 20242 = 598*y - 594*y - 3*l, l = y - 5060. What is the units digit of y?
+2
+Let m = 24 - 99. Let j be (-33)/1*(-100)/m. Let b = 119 + j. What is the tens digit of b?
+7
+Suppose -21*f - 12*f + 287133 = 0. What is the tens digit of f?
+0
+Let n be ((-105)/(-14))/(1 - 2/4). Let c(x) = 29*x + 22. What is the units digit of c(n)?
+7
+Suppose 134*a = 149*a - 23580. What is the units digit of a?
+2
+Let d(c) = 850*c + 953. What is the hundreds digit of d(7)?
+9
+Let x = 12682 - 4869. What is the hundreds digit of x?
+8

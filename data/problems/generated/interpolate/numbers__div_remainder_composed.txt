@@ -1,0 +1,20 @@
+Suppose 0 = -p + 5*r + 427, -5*p + r = -6*p + 451. Suppose -5*z - x + p = 0, -2*z = 2*z - 2*x - 352. Calculate the remainder when z is divided by 31.
+27
+What is the remainder when 1479 is divided by 228/(2/6 - 435/(-261))?
+111
+Suppose 357*w = 358*w - 386. What is the remainder when w is divided by 128?
+2
+Let q = 2254 + -2204. What is the remainder when 175 is divided by q?
+25
+What is the remainder when 185 is divided by 70/(28/2) + 40?
+5
+Let r be ((-10)/8)/(80/(-128)). Suppose -59 = -3*k - 4*q - q, -q = -r*k + 22. What is the remainder when k is divided by 8?
+5
+Suppose -5*k + 18 + 2 = 0. Let q(z) = z**2 + 9*z - 19. Let g be q(-11). Let s = g + 11. What is the remainder when s is divided by k?
+2
+Let p(a) = -a**3 + 21*a**2 - 74*a - 18. What is the remainder when p(9) is divided by 153?
+135
+Let n = -142 - -190. Calculate the remainder when 138 - 4 - 4/(-1) is divided by n.
+42
+Suppose 0 = 2*p, -2*z + 12 = -p + 2. Suppose 5*i - 97 + 37 = 0. What is the remainder when i is divided by z?
+2

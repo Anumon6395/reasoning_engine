@@ -1,0 +1,20 @@
+Let z(s) = -s - 14 + 12 + 2*s - 4. Let b(k) = 4*k - 38. Let y be b(11). Give z(y).
+0
+Let f(i) = -4*i + i + 32005 - 31988. Give f(4).
+5
+Let y(j) = 1199*j - 1203*j + 2 - 12 - 15. Determine y(6).
+-49
+Let g(t) = t**2 - 9*t - 5. Suppose -2*l - 4*y + 7*y = -7, -l = 5*y - 23. Calculate g(l).
+-13
+Let s(q) = 4*q + 58. Let t be (-57507)/3393 + (-4)/78. Give s(t).
+-10
+Let y = -66 - -64. Let r(j) be the third derivative of j**6/120 + j**5/15 + j**4/24 - j**3/2 + 148*j**2. Determine r(y).
+3
+Let z(w) = 2*w + 23. Suppose -64*v - 52*v = -35*v + 1053. Calculate z(v).
+-3
+Let o(q) = q**2 + 6*q + 6. Let n = 48 - 45. Suppose -n*y + w - 3*w - 1 = 0, 4*y + 3 = -w. Let d be y - (-3 + -1 - -8). Calculate o(d).
+1
+Let b(h) = h**3 + h**2 - h - 7. Suppose 2*v - 2*l - 1 = -11, 0 = -3*v - 5*l + 25. Suppose s + 5 = 3*y, 0 = -2*y + 4*s - v*s + 20. Calculate b(y).
+-7
+Let h(t) = -t**2 + 80*t - 1607. Let w be h(43). Let z(k) = -k**2 - 14*k + 28. Give z(w).
+-4

@@ -1,0 +1,20 @@
+Let j be 2 - ((2 + (-57)/(-12))/1 - 5). What is the nearest to j in 23, 0.2, 1?
+0.2
+Let y be (-4)/6 + (4 - 28/21). Suppose y*g - 58 = -56. What is the closest to g in 2/17, 1/2, 4/5?
+4/5
+Let r = 100 + -99.6. Let d = -2.2 + 2.35. Let x = d + -0.25. What is the nearest to x in r, -0.1, 5?
+-0.1
+Let z = -53 + 317/6. Let y = -0.4 + 0.4. Let d = -271 - -272. What is the nearest to y in z, -0.3, d?
+z
+Let p be 129/42 + -2 - (-32)/(-56). Which is the closest to 0.5?  (a) p  (b) -11  (c) -3
+a
+Let l = -3581 - -3581.2. What is the nearest to l in -3/7, -2.2, 2, -0.3?
+-0.3
+Let d = 5.9 - 3.92. Let u = 2.08 - d. What is the nearest to 0.09 in -1/10, u, -2/9?
+u
+Let q = 0 - -0.152. Let t = 4.848 + q. Which is the nearest to 0?  (a) 0.06  (b) -0.4  (c) t
+a
+Let j = 0.2 + 3.8. Let y be (-3)/5*((-2527)/(-114) + -18). What is the nearest to -1 in 1/19, j, y?
+1/19
+Suppose 0 = 5*j + 5 - 20. Let o = 41.15 + -0.15. Let f = -36 + o. What is the nearest to 1/6 in f, j, -3/5?
+-3/5

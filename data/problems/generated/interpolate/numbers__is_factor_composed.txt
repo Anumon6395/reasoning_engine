@@ -1,0 +1,20 @@
+Suppose 0 = 4*k + 4*u + 852, 5*k + u - 3*u = -1058. Is ((-3)/(-6))/((-1)/k*1) a multiple of 4?
+False
+Let d = 205 - 175. Suppose -d*l - 148 = -34*l. Does 37 divide l?
+True
+Let p(b) = -132 + 0*b**3 + 15*b**2 + 124 + 60*b - b**3. Is 25 a factor of p(18)?
+True
+Let f(h) = 2*h + h**2 + 16*h + 0*h**2 + 10. Is f(-24) a multiple of 11?
+True
+Suppose 13*n = 14*n. Suppose -5*x + z - 6*z + 1805 = n, 4 = 2*z. Does 13 divide x?
+False
+Let c(f) = 3*f + 18. Let g = 28 + -34. Let b be c(g). Suppose -5*a + 90 + b = 0. Is a a multiple of 9?
+True
+Let o be 1/(((-39)/(-12))/13). Suppose -2*j = -3*u - 238, o*u = -u - 10. Is j a multiple of 6?
+False
+Let y = -40 + 43. Let g(a) = 5*a**2 + a - 7. Let n be g(y). Is 21 a factor of n/(-4)*4*-1?
+False
+Suppose 0 = 45*m - 6*m - 3624 + 465. Does 27 divide m?
+True
+Does 14 divide 2507 + (-2)/(-6)*(3/(-1) - 0)?
+True

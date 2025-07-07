@@ -1,0 +1,20 @@
+Calculate prob of sequence mmw when three letters picked without replacement from wwwwwwwwwwwwwmwmwmw.
+16/969
+What is prob of sequence dhh when three letters picked without replacement from ddddhddddddddhddh?
+7/340
+What is prob of sequence fl when two letters picked without replacement from lallpaslfllpl?
+7/156
+Calculate prob of sequence ojg when three letters picked without replacement from {o: 1, j: 10, g: 5}.
+5/336
+Two letters picked without replacement from nxkxtkkxkktkkxkt. Give prob of sequence tt.
+1/40
+Four letters picked without replacement from {l: 1, w: 3, j: 1, e: 1}. Give prob of sequence wwjl.
+1/60
+Two letters picked without replacement from rqrrcp. What is prob of sequence cp?
+1/30
+Four letters picked without replacement from {k: 10, w: 8}. Give prob of sequence kwwk.
+7/102
+Two letters picked without replacement from urmmurzrmurzvzurmuu. Give prob of sequence mv.
+2/171
+Three letters picked without replacement from ddsuupupj. Give prob of sequence dup.
+1/42

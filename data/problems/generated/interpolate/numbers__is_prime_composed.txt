@@ -1,0 +1,20 @@
+Suppose 606*v = -4*t + 611*v + 78189, 0 = 5*t - 3*v - 97720. Is t prime?
+True
+Let n = -4023 + 96022. Is n a composite number?
+True
+Let b(f) = f + 1. Let h be b(6). Let g(t) be the third derivative of 49*t**4/8 + 3*t**3 - 22*t**2. Is g(h) prime?
+False
+Suppose -16*q + 3*q + 40182 = -793235. Is q composite?
+False
+Let j be ((-10)/4)/(4/(-8)). Suppose 2*p = -j*p - 1043. Let f = p + 294. Is f composite?
+True
+Suppose 14*b = 9*b + 10. Let t be -1 + 1 + -1*68/b. Let u = t + 57. Is u prime?
+True
+Suppose 3*g + 3*w - 88437 = 0, -48*w + 147383 = 5*g - 49*w. Is g prime?
+False
+Let h(t) = t**2 - 33*t + 47. Let r(f) = -2*f**2 + 32*f - 46. Let c(k) = -5*h(k) - 4*r(k). Is c(19) composite?
+True
+Let r = -216 - -204. Is 30/r + (-102786)/(-12) a composite number?
+False
+Let t be (6 - 6)/(1 - 0). Suppose 2*d + 91 - 17 = t. Is (8/10)/(4/(-10)) - d composite?
+True

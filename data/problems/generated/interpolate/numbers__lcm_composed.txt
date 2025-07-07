@@ -1,0 +1,20 @@
+Calculate the common denominator of (-13)/(2470/57)*53/3 and -55/2776.
+13880
+Let r = 3588 + 6172. Let p = 117193/12 - r. Find the common denominator of 10 and p.
+12
+Let s(g) = g**3 + 10*g**2 - 12*g + 24. Let n be s(-12). Find the common denominator of -83/50 and (-686)/n + (-3)/(9/2).
+100
+Calculate the common denominator of 1/130 and 4/14 + 8632/94640.
+130
+Find the common denominator of ((-1986)/(-60) - 7)*15/(-9)*-1 and 65/4158.
+4158
+Let c = -301667/24 + 12564. Let y = 1777 - 26636/15. Calculate the common denominator of c and y.
+120
+Let f be (12/(-30) - (-633)/1470) + 0. Let w = -261/1078 - f. What is the common denominator of w and -9/37?
+407
+Let a = 3673 - 3652. What is the smallest common multiple of a and 345?
+2415
+Suppose 0 = -4*p - 8, -5*f - 8*p + 3338 = -12*p. Calculate the least common multiple of f and 1.
+666
+Suppose -h = -1, -o + 4*h - 2 = -0*o. Suppose 0 = 5*x - 3*y - 183, -o = -2*y - 4. Suppose 22*b = 18*b + x. What is the smallest common multiple of 2 and b?
+18

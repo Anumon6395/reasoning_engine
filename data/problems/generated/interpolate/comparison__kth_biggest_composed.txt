@@ -1,0 +1,20 @@
+Let x = 7 - 6.8. Let n = 708 - 727. What is the second biggest value in x, n, 0.5?
+x
+Let n be (15 - 8 - 2) + 5. What is the biggest value in -2, n, -0.3, -1/4, -4?
+n
+Suppose 4*n - 27 = -3*d, -6*n + 3*d = -7*n. Which is the biggest value?  (a) 1  (b) -4  (c) n
+c
+Let c = -441 - -177. Let i = -268.86 - c. Let q = i - 0.14. What is the smallest value in -8, -0.5, 0.3, q?
+-8
+Let b = 98 - 98.5. Let m = 710/207 + -84/23. What is the third biggest value in -4, m, 3/7, b?
+b
+Let j = 5.908 - 0.908. What is the fifth smallest value in 4, -1, j, -0.12, -5?
+j
+Let g = 236.4 + -207. Let h = -41.1 + g. Let a = h - -12. What is the second smallest value in -3/5, -2, a?
+-3/5
+Let k = -0.6 + 0.68. Let q = k + 6.92. Let n = 4/3 - 50/33. What is the smallest value in q, n, -2?
+-2
+Let l be -1*((-348)/30 + 12 + (-3494)/10). What is the third smallest value in 5, l, -3, 4?
+5
+Let t = -0.1775 + 0.1875. What is the third biggest value in 3/4, -1, t, 1, -4?
+t

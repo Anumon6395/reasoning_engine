@@ -1,0 +1,20 @@
+Let b = -20 + -64. Let j = 81.8 + b. Which is smaller: j or 2?
+j
+Let r = 1.407 + -0.407. Is 393 equal to r?
+False
+Let y be 4367/(-4)*(-36)/(-6894)*-194. Let u = -1106 + y. Which is smaller: -1 or u?
+-1
+Suppose -4*s - 3*j = 3, 2 + 0 = -3*s - 2*j. Suppose s = -3*p + 2 + 4. Suppose -2 = 2*f, -4*y + 2*f - p = -0. Is 1/7 smaller than y?
+False
+Let d = -2114.93 + 2115. Is d < -20.5?
+False
+Let n = 1951 - 1950. Does -1/3187 = n?
+False
+Let u be ((-14)/(-3))/(66/(-27)). Let g = 113/88 + u. Suppose -4*s - 19 - 4 = -5*k, -3*k + 11 = -s. Which is bigger: s or g?
+g
+Let c(m) = -4*m - 105. Let b be c(-25). Let o(i) = -2*i**2 - 15*i - 4. Let s be o(b). Which is smaller: s or 22?
+s
+Let m(u) = 89*u + 19. Let w be m(5). Let g = w + -1867/4. Which is bigger: 0 or g?
+0
+Let c be 0/(-1) + -4 + -10*5. Let t = 33 + c. Let s = 40 + -62. Which is greater: t or s?
+t

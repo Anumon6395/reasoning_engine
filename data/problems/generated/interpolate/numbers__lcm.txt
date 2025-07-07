@@ -1,0 +1,20 @@
+Calculate the lowest common multiple of 16549 and 223847.
+4253093
+Find the common denominator of -53/183940 and -13/1526702.
+15267020
+Calculate the common denominator of 87/1180 and 29/103400.
+6100600
+What is the lowest common multiple of 2681856 and 48?
+2681856
+Find the common denominator of -43/10 and 29/659072.
+3295360
+What is the smallest common multiple of 1022 and 803?
+11242
+Calculate the least common multiple of 1017280 and 968.
+11190080
+Find the common denominator of -67/1902348 and -127/634116.
+1902348
+What is the common denominator of 44/2071 and -17/1565676?
+1565676
+What is the least common multiple of 537 and 12?
+2148

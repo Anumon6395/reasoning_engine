@@ -1,0 +1,20 @@
+Suppose -5*j - 15 = 0, -s + 2*s - 4*j = 12. Let x = 238/2385 + 16/477. Factor -2/15*f**3 + 4/15*f - x*f**2 + s.
+-2*f*(f - 1)*(f + 2)/15
+Let g(k) = 20*k**2 + 375*k - 395. Let r(d) = -17*d**2 - 378*d + 395. Let j(q) = 4*g(q) + 5*r(q). Solve j(t) = 0 for t.
+-79, 1
+Suppose x = 2*v - 6*v + 23, -2*v = x - 13. Suppose 0 = 3*i + v*i - 24. Factor 24/7*j - 15/7*j**i + 12/7 - 3*j**2.
+-3*(j - 1)*(j + 2)*(5*j + 2)/7
+What is x in -12*x**2 + 0 - 24*x + 8/3*x**3 + 4/3*x**4 = 0?
+-3, -2, 0, 3
+Factor -5*l**2 + 2*l**2 - 12*l + 150*l**3 - 13*l**2 - 154*l**3.
+-4*l*(l + 1)*(l + 3)
+Let o be ((-28)/(-5))/((-14)/(-315)). Let x be (-3)/(o/4)*147/(-21). Determine k so that 2/3*k**3 - x*k**2 + 0 - 2/9*k**4 + 2/9*k = 0.
+0, 1
+Let m = 362 - 360. Let h be 2 + 30/(-20) - 0/m. Solve 5*a + 25/2 + h*a**2 = 0 for a.
+-5
+Let r be ((-64)/24)/(4/(-6)). Let h(b) be the second derivative of 0*b**2 + 0 - 1/21*b**3 + 1/42*b**r - 11*b. Find d such that h(d) = 0.
+0, 1
+Let p = 517150/7 - 73878. Solve -p*c + 8/7*c**2 + 4/7*c**3 - 8/7 = 0.
+-2, -1, 1
+Let b = -32378/3 - -10897. Let r = b - 103. Factor r*s**3 + 4*s + 0 + 16/3*s**2.
+4*s*(s + 1)*(s + 3)/3
